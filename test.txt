@@ -1,0 +1,10 @@
+Hello, File Processor!
+    
+This is a test file with multiple lines.
+It contains:
+- Numbers like 12345
+- Special characters: !@#$%^&*
+- Mixed CASE ExAmPlEs
+
+The quick brown fox jumps over the lazy dog.
+Python is fun! 🐍
